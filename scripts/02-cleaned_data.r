@@ -1,12 +1,32 @@
 library(readr)
 library(dplyr)
+library(kableExtra)
 
 # Define path
 input_data_path <- "inputs/data.csv"
 output_data_path <- "inputs/cleaned_data.csv"
+output_table_path <- "outputs/tables"
 
 # Read data
 data <- read_csv(input_data_path, locale = locale(encoding = "UTF-8"))
+
+
+# PLot Head
+renamed_data <- data %>%
+  rename(
+    "ID" = `_id`,
+    "Year Of Death" = `Year of death`,
+    "Cause Of Death" = Cause_of_death,
+    "Age Group" = Age_group,
+    "Gender" = Gender,
+    "Death Count" = Count
+  )
+
+table <- kable(head(renamed_data), format = "latex", booktabs = TRUE, caption = "Preview of Homeless Deaths in Toronto")
+writeLines(table, con = file.path(output_table_path, "head.tex"))
+
+
+
 
 # Data cleaning
 # define a function to map categorical age to numerical
@@ -42,7 +62,8 @@ data <- data %>%
     cause = Cause_of_death,
     gender = Gender,
     count = Count,
-    age = Age
+    age = Age,
+    age_group = Age_group
   )
 
 # create covid-19 treatment (i.e., before/after covid for later use)
