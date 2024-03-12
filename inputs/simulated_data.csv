@@ -1,0 +1,1001 @@
+"Year","Age","Cause_of_death","Gender","Death_count"
+2018,58,"Suicide","Female",2
+2022,54,"Cancer","Female",28
+2019,55,"COVID-19","Female",1
+2017,59,"Homicide","Female",7
+2018,49,"Suicide","Male",1
+2022,26,"Other","Female",1
+2020,57,"Accident","Female",1
+2022,35,"Suicide","Female",1
+2022,54,"Cardiovascular Disease","Female",2
+2020,57,"Homicide","Male",8
+2022,49,"Drug Toxicity","Male",19
+2018,52,"Other","Female",1
+2019,62,"Accident","Male",1
+2018,58,"Drug Toxicity","Male",1
+2021,63,"COVID-19","Female",1
+2020,37,"COVID-19","Female",1
+2019,41,"Other","Female",21
+2019,54,"COVID-19","Male",1
+2018,50,"Cancer","Male",1
+2017,44,"COVID-19","Male",22
+2018,59,"Homicide","Male",6
+2019,49,"Pneumonia","Female",1
+2020,60,"Homicide","Female",1
+2020,41,"Other","Female",1
+2022,52,"Drug Toxicity","Male",1
+2020,43,"Accident","Female",1
+2021,37,"Homicide","Male",1
+2019,58,"Cardiovascular Disease","Male",9
+2017,56,"Suicide","Female",1
+2019,36,"Other","Female",1
+2020,53,"Drug Toxicity","Male",4
+2018,47,"Accident","Male",1
+2022,38,"COVID-19","Male",2
+2021,52,"Drug Toxicity","Female",1
+2021,55,"Drug Toxicity","Female",1
+2022,51,"Accident","Female",1
+2022,64,"Cardiovascular Disease","Male",1
+2021,59,"Homicide","Female",1
+2017,35,"Other","Male",1
+2021,70,"Drug Toxicity","Male",1
+2020,59,"Homicide","Male",5
+2019,56,"Cancer","Male",1
+2022,63,"Homicide","Male",1
+2017,36,"Drug Toxicity","Female",1
+2017,51,"Other","Male",10
+2017,33,"Accident","Male",1
+2022,58,"Pneumonia","Female",1
+2019,52,"Pneumonia","Female",1
+2017,45,"Other","Female",45
+2017,53,"Other","Female",1
+2022,62,"Suicide","Male",4
+2020,54,"Cancer","Male",1
+2022,53,"Cardiovascular Disease","Female",1
+2019,61,"Drug Toxicity","Female",1
+2021,74,"Cardiovascular Disease","Female",1
+2022,57,"Cancer","Female",1
+2019,41,"Suicide","Male",21
+2022,58,"Cardiovascular Disease","Male",1
+2020,63,"Drug Toxicity","Female",1
+2019,54,"Cardiovascular Disease","Male",3
+2019,41,"Cancer","Male",1
+2019,40,"COVID-19","Male",1
+2022,50,"Accident","Female",1
+2020,36,"Other","Female",1
+2019,55,"Other","Female",2
+2022,60,"COVID-19","Female",8
+2022,55,"COVID-19","Female",1
+2021,39,"Suicide","Female",1
+2020,47,"Pneumonia","Male",1
+2020,69,"Cardiovascular Disease","Female",1
+2019,26,"Other","Male",41
+2017,46,"Homicide","Male",1
+2022,48,"Drug Toxicity","Male",1
+2018,61,"Accident","Male",1
+2021,44,"Accident","Male",1
+2019,48,"COVID-19","Male",1
+2021,46,"Pneumonia","Female",1
+2020,54,"Homicide","Female",2
+2021,37,"Homicide","Female",1
+2020,73,"Cardiovascular Disease","Female",1
+2020,46,"Cancer","Female",13
+2021,47,"Accident","Male",5
+2017,46,"Drug Toxicity","Male",3
+2018,48,"COVID-19","Female",1
+2017,49,"Other","Male",1
+2018,46,"Drug Toxicity","Female",1
+2020,55,"Accident","Female",1
+2021,49,"Cardiovascular Disease","Male",1
+2018,29,"Suicide","Male",18
+2018,40,"Other","Female",3
+2020,45,"Accident","Female",2
+2017,72,"Homicide","Male",1
+2018,53,"Other","Female",39
+2019,37,"Pneumonia","Female",1
+2019,71,"COVID-19","Female",1
+2019,56,"Accident","Female",8
+2018,70,"Accident","Male",5
+2018,47,"Cancer","Male",1
+2017,55,"Cardiovascular Disease","Male",1
+2022,36,"Accident","Male",19
+2021,59,"Homicide","Male",1
+2022,42,"Cardiovascular Disease","Male",1
+2019,44,"Drug Toxicity","Female",46
+2018,65,"Other","Male",1
+2019,41,"Pneumonia","Male",1
+2018,38,"Drug Toxicity","Male",1
+2019,58,"Pneumonia","Female",1
+2020,42,"Suicide","Female",32
+2018,60,"COVID-19","Male",1
+2021,71,"Pneumonia","Female",16
+2022,68,"Accident","Female",39
+2017,54,"Homicide","Female",1
+2020,49,"Other","Male",7
+2022,57,"Cancer","Male",1
+2022,61,"Cardiovascular Disease","Female",1
+2018,58,"Accident","Female",1
+2019,58,"Drug Toxicity","Male",1
+2022,47,"Drug Toxicity","Female",1
+2018,25,"Suicide","Male",1
+2022,49,"Suicide","Female",8
+2019,41,"Pneumonia","Male",1
+2019,62,"Accident","Male",7
+2020,52,"Pneumonia","Female",1
+2017,58,"COVID-19","Female",1
+2018,57,"Homicide","Female",2
+2022,36,"Suicide","Male",1
+2018,57,"Cancer","Male",1
+2020,57,"Suicide","Male",1
+2020,53,"Homicide","Male",1
+2021,41,"Homicide","Male",1
+2020,62,"Accident","Female",3
+2021,33,"Drug Toxicity","Female",1
+2018,65,"Cardiovascular Disease","Male",1
+2020,61,"Suicide","Male",1
+2020,47,"Cancer","Male",5
+2017,69,"Drug Toxicity","Female",1
+2018,53,"Cancer","Female",1
+2019,44,"COVID-19","Male",1
+2022,59,"Cancer","Male",9
+2021,52,"Homicide","Male",2
+2017,31,"Cancer","Male",1
+2020,47,"Pneumonia","Male",1
+2017,34,"Drug Toxicity","Female",2
+2018,44,"Accident","Female",1
+2018,45,"Suicide","Male",3
+2021,64,"Accident","Male",12
+2022,35,"Accident","Female",15
+2018,51,"Drug Toxicity","Female",1
+2017,52,"Drug Toxicity","Male",1
+2018,46,"Homicide","Female",3
+2017,43,"Drug Toxicity","Female",1
+2020,57,"Suicide","Male",2
+2018,55,"Accident","Female",1
+2019,52,"Cancer","Female",1
+2022,53,"Drug Toxicity","Female",1
+2018,66,"Other","Male",2
+2017,60,"Homicide","Male",1
+2018,47,"Cardiovascular Disease","Male",1
+2017,49,"Accident","Male",14
+2021,47,"Cancer","Male",1
+2017,62,"Cardiovascular Disease","Female",23
+2021,46,"Drug Toxicity","Male",14
+2022,39,"Suicide","Female",1
+2019,56,"Drug Toxicity","Male",1
+2020,60,"Homicide","Female",1
+2018,57,"Cardiovascular Disease","Female",5
+2022,60,"COVID-19","Male",26
+2018,52,"Pneumonia","Male",1
+2018,33,"Accident","Female",1
+2020,54,"Pneumonia","Female",1
+2020,61,"Homicide","Male",1
+2018,57,"Accident","Male",1
+2021,43,"COVID-19","Male",2
+2018,58,"Other","Male",1
+2022,63,"Cardiovascular Disease","Female",1
+2022,70,"Suicide","Male",1
+2017,63,"Homicide","Male",1
+2021,51,"Suicide","Male",1
+2020,59,"COVID-19","Male",3
+2019,63,"Accident","Male",1
+2021,60,"Homicide","Male",1
+2022,57,"Other","Female",1
+2020,60,"Cardiovascular Disease","Female",1
+2022,34,"Cardiovascular Disease","Male",2
+2021,47,"Other","Female",12
+2020,69,"Cardiovascular Disease","Male",1
+2022,57,"Drug Toxicity","Female",1
+2017,43,"Drug Toxicity","Male",1
+2021,47,"Cancer","Female",1
+2020,40,"Cancer","Female",2
+2019,67,"Drug Toxicity","Male",1
+2019,32,"Cancer","Female",1
+2019,68,"COVID-19","Male",3
+2020,36,"Drug Toxicity","Male",4
+2020,65,"Suicide","Female",1
+2018,72,"Suicide","Male",1
+2022,54,"Homicide","Male",1
+2018,51,"COVID-19","Female",4
+2020,47,"Cardiovascular Disease","Female",1
+2021,64,"Drug Toxicity","Male",2
+2017,66,"Accident","Male",1
+2021,50,"Accident","Male",1
+2020,40,"Suicide","Male",1
+2018,62,"Suicide","Female",1
+2021,51,"Pneumonia","Female",1
+2020,49,"Pneumonia","Male",45
+2020,52,"COVID-19","Male",1
+2019,45,"Pneumonia","Male",2
+2022,50,"Cardiovascular Disease","Male",32
+2020,81,"Cancer","Male",1
+2020,60,"Homicide","Female",1
+2020,45,"COVID-19","Female",1
+2018,55,"Accident","Male",1
+2017,39,"Suicide","Female",1
+2020,37,"Drug Toxicity","Female",1
+2018,41,"Cancer","Male",1
+2022,43,"Drug Toxicity","Male",1
+2019,47,"Cardiovascular Disease","Male",1
+2019,32,"Cardiovascular Disease","Female",23
+2021,52,"Cancer","Male",1
+2019,57,"Suicide","Male",1
+2022,63,"Homicide","Male",1
+2018,36,"Accident","Male",9
+2022,51,"COVID-19","Male",14
+2018,56,"Homicide","Female",1
+2022,52,"Accident","Male",1
+2019,31,"Other","Male",6
+2019,73,"Cardiovascular Disease","Female",1
+2020,58,"Pneumonia","Female",1
+2018,50,"Homicide","Female",1
+2020,41,"Pneumonia","Female",10
+2020,55,"Other","Female",1
+2017,67,"Other","Male",1
+2019,67,"Drug Toxicity","Male",1
+2017,52,"Pneumonia","Male",1
+2019,45,"Cardiovascular Disease","Female",1
+2018,51,"Pneumonia","Female",1
+2020,38,"Pneumonia","Male",30
+2017,58,"Accident","Female",1
+2022,53,"Cancer","Female",1
+2019,40,"Drug Toxicity","Male",1
+2019,72,"COVID-19","Male",1
+2017,44,"Pneumonia","Male",2
+2018,41,"Suicide","Female",40
+2017,41,"Drug Toxicity","Male",1
+2018,45,"Cardiovascular Disease","Female",1
+2021,53,"Drug Toxicity","Male",18
+2018,48,"Homicide","Male",1
+2022,65,"Other","Male",1
+2020,38,"Accident","Female",1
+2020,63,"Accident","Male",1
+2017,48,"Pneumonia","Male",4
+2017,44,"Cancer","Male",1
+2021,40,"Cardiovascular Disease","Male",1
+2019,49,"Accident","Male",1
+2017,41,"Suicide","Male",15
+2019,41,"Homicide","Male",1
+2020,63,"Accident","Female",1
+2021,68,"Other","Female",1
+2021,44,"Cardiovascular Disease","Male",1
+2021,48,"Pneumonia","Female",24
+2021,38,"Accident","Male",1
+2018,48,"Drug Toxicity","Female",1
+2021,54,"Suicide","Female",1
+2022,51,"Accident","Female",1
+2022,47,"Suicide","Male",2
+2021,43,"Homicide","Male",1
+2021,51,"Pneumonia","Female",8
+2018,31,"Other","Female",1
+2019,42,"Accident","Male",1
+2021,58,"Homicide","Female",1
+2021,43,"Accident","Male",6
+2018,25,"COVID-19","Male",31
+2017,34,"COVID-19","Female",7
+2017,65,"Drug Toxicity","Female",22
+2019,69,"Suicide","Female",1
+2020,32,"Cardiovascular Disease","Male",1
+2020,56,"Drug Toxicity","Male",48
+2019,46,"Suicide","Male",1
+2021,44,"Drug Toxicity","Female",1
+2020,56,"Accident","Male",1
+2019,55,"Other","Female",1
+2018,47,"Cardiovascular Disease","Female",1
+2017,43,"Cancer","Male",1
+2018,47,"Homicide","Female",1
+2020,44,"Drug Toxicity","Female",1
+2017,35,"Homicide","Male",25
+2019,62,"Suicide","Male",10
+2021,37,"Cancer","Female",1
+2019,43,"Other","Male",6
+2017,46,"Other","Female",1
+2017,37,"Cardiovascular Disease","Male",3
+2021,42,"Homicide","Male",1
+2018,61,"Suicide","Female",1
+2022,57,"Cardiovascular Disease","Male",1
+2020,66,"Cardiovascular Disease","Female",1
+2017,61,"Suicide","Male",5
+2018,40,"Other","Male",1
+2021,58,"Pneumonia","Female",1
+2018,34,"COVID-19","Female",1
+2021,63,"Pneumonia","Female",1
+2019,65,"COVID-19","Female",1
+2017,50,"Homicide","Male",1
+2020,44,"Drug Toxicity","Male",19
+2017,51,"Homicide","Male",1
+2018,54,"Suicide","Female",1
+2022,40,"Drug Toxicity","Male",1
+2021,63,"Accident","Male",9
+2022,59,"Drug Toxicity","Male",49
+2019,60,"COVID-19","Female",1
+2021,47,"Other","Male",1
+2019,50,"Drug Toxicity","Female",1
+2018,58,"Homicide","Male",1
+2018,53,"Other","Male",1
+2021,59,"Pneumonia","Female",1
+2022,56,"Drug Toxicity","Male",8
+2017,53,"Drug Toxicity","Male",1
+2021,48,"Drug Toxicity","Female",1
+2021,53,"Suicide","Female",1
+2019,34,"Accident","Female",1
+2018,41,"Other","Male",1
+2017,59,"Pneumonia","Female",1
+2018,30,"Accident","Male",1
+2021,59,"Accident","Female",1
+2017,51,"Drug Toxicity","Female",4
+2019,40,"Cancer","Female",1
+2018,57,"Accident","Male",1
+2021,52,"Cancer","Male",5
+2022,39,"Homicide","Female",1
+2021,43,"Drug Toxicity","Male",1
+2021,40,"Drug Toxicity","Female",17
+2021,73,"Cancer","Female",32
+2020,38,"Drug Toxicity","Male",1
+2017,29,"Pneumonia","Male",12
+2020,61,"Drug Toxicity","Female",1
+2020,62,"Suicide","Female",1
+2017,56,"Other","Male",6
+2022,61,"Drug Toxicity","Female",1
+2017,61,"Cancer","Male",2
+2020,58,"Suicide","Male",1
+2022,51,"Other","Male",1
+2021,61,"Drug Toxicity","Female",16
+2018,46,"Accident","Male",1
+2021,46,"Other","Male",2
+2018,39,"Cancer","Female",1
+2021,37,"Pneumonia","Male",12
+2021,55,"Cancer","Female",14
+2021,49,"COVID-19","Female",1
+2017,39,"Pneumonia","Female",1
+2017,54,"Drug Toxicity","Male",1
+2020,48,"COVID-19","Female",25
+2019,43,"Pneumonia","Male",7
+2018,47,"Drug Toxicity","Female",1
+2018,47,"Cancer","Male",10
+2019,50,"Cancer","Male",1
+2017,51,"Drug Toxicity","Female",1
+2017,56,"Suicide","Male",1
+2019,49,"Cardiovascular Disease","Male",1
+2019,44,"Pneumonia","Female",1
+2020,53,"Drug Toxicity","Male",38
+2018,42,"Accident","Male",1
+2018,48,"Cardiovascular Disease","Female",1
+2021,55,"Drug Toxicity","Female",1
+2022,45,"COVID-19","Male",1
+2022,62,"Pneumonia","Female",1
+2018,42,"Pneumonia","Female",1
+2020,52,"Accident","Male",26
+2018,41,"Suicide","Female",1
+2022,36,"Cancer","Male",1
+2021,45,"Pneumonia","Female",1
+2018,61,"Suicide","Female",1
+2020,48,"Homicide","Male",1
+2022,46,"Pneumonia","Female",9
+2020,62,"Suicide","Male",1
+2018,58,"Accident","Male",1
+2017,59,"COVID-19","Male",1
+2019,57,"Homicide","Female",1
+2018,53,"Drug Toxicity","Male",1
+2021,47,"Suicide","Male",1
+2019,54,"Cardiovascular Disease","Male",15
+2021,38,"COVID-19","Female",1
+2022,50,"Other","Female",1
+2020,54,"Pneumonia","Female",1
+2021,54,"Drug Toxicity","Female",1
+2017,50,"Accident","Female",1
+2020,35,"Cardiovascular Disease","Male",1
+2020,53,"Drug Toxicity","Male",1
+2021,58,"Drug Toxicity","Male",1
+2019,64,"Drug Toxicity","Female",1
+2021,37,"Cancer","Female",1
+2020,50,"Other","Female",26
+2019,53,"Drug Toxicity","Male",41
+2022,57,"Suicide","Female",3
+2018,50,"Cardiovascular Disease","Male",1
+2020,52,"Drug Toxicity","Male",7
+2018,55,"Pneumonia","Male",1
+2018,52,"Accident","Male",19
+2020,20,"Drug Toxicity","Male",4
+2019,50,"Drug Toxicity","Female",9
+2017,53,"Drug Toxicity","Male",1
+2018,59,"Cardiovascular Disease","Male",1
+2017,42,"COVID-19","Male",1
+2017,61,"Cardiovascular Disease","Female",1
+2018,41,"COVID-19","Male",1
+2019,64,"Drug Toxicity","Male",1
+2022,47,"Pneumonia","Female",1
+2018,55,"COVID-19","Female",47
+2019,79,"Cancer","Female",1
+2020,50,"Accident","Female",1
+2019,41,"Cancer","Male",1
+2017,58,"Pneumonia","Male",1
+2021,60,"Other","Male",19
+2021,74,"Drug Toxicity","Female",1
+2017,65,"Other","Male",1
+2017,42,"COVID-19","Male",1
+2020,53,"Suicide","Male",1
+2019,54,"Drug Toxicity","Male",10
+2017,50,"Other","Female",1
+2017,35,"Other","Male",1
+2021,26,"COVID-19","Male",3
+2018,56,"COVID-19","Female",1
+2019,54,"Accident","Male",1
+2017,59,"Other","Male",1
+2020,35,"Suicide","Male",1
+2017,50,"Accident","Male",1
+2022,37,"Accident","Male",15
+2021,50,"Cardiovascular Disease","Male",1
+2022,50,"Drug Toxicity","Male",1
+2021,33,"Accident","Male",19
+2022,57,"Accident","Male",1
+2017,33,"Other","Male",1
+2021,55,"Accident","Female",4
+2018,52,"Drug Toxicity","Female",1
+2020,57,"Homicide","Male",1
+2019,52,"Drug Toxicity","Male",1
+2021,36,"Drug Toxicity","Female",1
+2018,58,"Accident","Female",1
+2021,59,"Cancer","Male",11
+2018,43,"Cancer","Male",1
+2021,31,"Cardiovascular Disease","Male",2
+2021,53,"Cardiovascular Disease","Male",1
+2022,75,"Drug Toxicity","Male",1
+2018,53,"Suicide","Male",3
+2018,40,"Suicide","Male",28
+2018,25,"Pneumonia","Male",1
+2018,27,"Cancer","Female",1
+2018,61,"Cancer","Male",13
+2019,53,"COVID-19","Female",1
+2017,38,"Cardiovascular Disease","Female",1
+2018,62,"Homicide","Male",1
+2021,64,"Homicide","Female",22
+2020,59,"Cancer","Male",1
+2018,55,"Other","Female",1
+2022,42,"Pneumonia","Male",21
+2017,40,"Homicide","Male",1
+2022,35,"Suicide","Female",1
+2020,65,"Pneumonia","Female",3
+2020,65,"Homicide","Female",1
+2017,60,"Homicide","Male",1
+2021,37,"Cardiovascular Disease","Male",1
+2021,45,"Other","Male",1
+2022,45,"Pneumonia","Female",1
+2022,38,"Accident","Male",1
+2021,53,"Cancer","Female",1
+2018,53,"Cancer","Female",1
+2021,41,"Other","Male",1
+2019,40,"COVID-19","Male",1
+2017,46,"Homicide","Male",1
+2020,52,"COVID-19","Female",1
+2017,30,"Homicide","Male",9
+2020,41,"Cardiovascular Disease","Female",5
+2021,41,"Homicide","Female",1
+2022,34,"Accident","Male",1
+2017,49,"Cancer","Male",5
+2017,52,"Drug Toxicity","Female",1
+2017,47,"Accident","Female",1
+2019,38,"Drug Toxicity","Female",1
+2017,47,"Drug Toxicity","Male",1
+2020,50,"Cardiovascular Disease","Male",3
+2020,39,"Drug Toxicity","Female",1
+2017,47,"Drug Toxicity","Female",1
+2018,55,"Homicide","Male",1
+2021,51,"COVID-19","Female",1
+2022,45,"Drug Toxicity","Female",6
+2017,43,"Suicide","Male",3
+2020,48,"Drug Toxicity","Male",34
+2019,46,"Cancer","Female",1
+2020,49,"Cardiovascular Disease","Male",1
+2017,40,"Drug Toxicity","Female",35
+2021,55,"COVID-19","Female",1
+2018,49,"Other","Female",1
+2018,64,"Cardiovascular Disease","Male",3
+2022,77,"Accident","Female",1
+2019,46,"Suicide","Female",1
+2017,50,"Cardiovascular Disease","Female",1
+2020,52,"Suicide","Male",39
+2020,59,"Cancer","Female",1
+2020,42,"Drug Toxicity","Male",1
+2019,47,"Suicide","Female",1
+2021,57,"Cardiovascular Disease","Female",1
+2021,48,"Cardiovascular Disease","Female",1
+2020,40,"COVID-19","Male",1
+2021,57,"Drug Toxicity","Male",11
+2020,57,"Homicide","Female",2
+2022,65,"COVID-19","Female",1
+2021,48,"Cardiovascular Disease","Female",6
+2019,39,"COVID-19","Female",2
+2018,58,"Homicide","Male",1
+2017,55,"Pneumonia","Male",17
+2022,42,"Drug Toxicity","Female",1
+2022,51,"Cancer","Male",1
+2020,54,"Accident","Male",33
+2021,46,"COVID-19","Female",1
+2017,69,"Cancer","Male",1
+2020,56,"Homicide","Female",8
+2017,47,"Other","Female",5
+2022,53,"Cardiovascular Disease","Female",1
+2018,41,"Cancer","Male",7
+2021,58,"Suicide","Male",1
+2022,58,"COVID-19","Female",1
+2022,64,"Drug Toxicity","Female",4
+2020,50,"Other","Female",1
+2019,60,"Cardiovascular Disease","Female",1
+2017,46,"Drug Toxicity","Male",1
+2021,44,"Homicide","Male",1
+2022,42,"Other","Male",1
+2020,50,"Homicide","Male",1
+2022,47,"Drug Toxicity","Female",38
+2022,60,"Accident","Male",1
+2017,46,"Accident","Male",3
+2017,50,"Homicide","Male",2
+2020,50,"Drug Toxicity","Female",1
+2018,46,"Pneumonia","Female",1
+2017,31,"Suicide","Male",1
+2018,67,"Homicide","Male",37
+2022,45,"Other","Male",30
+2020,56,"Drug Toxicity","Female",1
+2021,54,"Cancer","Female",24
+2022,43,"Cardiovascular Disease","Female",1
+2021,51,"COVID-19","Female",1
+2018,32,"Suicide","Female",1
+2017,52,"Accident","Female",1
+2022,53,"Other","Male",1
+2022,56,"COVID-19","Female",1
+2020,45,"Homicide","Male",1
+2019,55,"Pneumonia","Male",1
+2018,31,"Pneumonia","Male",1
+2018,63,"COVID-19","Female",1
+2019,43,"Cardiovascular Disease","Female",33
+2022,48,"Cancer","Female",1
+2021,56,"Homicide","Female",24
+2020,47,"Suicide","Female",1
+2017,39,"Drug Toxicity","Female",1
+2019,37,"Drug Toxicity","Female",1
+2019,71,"Other","Male",1
+2017,52,"Drug Toxicity","Male",1
+2017,53,"Pneumonia","Male",30
+2020,55,"Cardiovascular Disease","Female",1
+2022,65,"Cardiovascular Disease","Male",1
+2022,30,"Other","Male",1
+2019,47,"Pneumonia","Female",1
+2020,57,"Drug Toxicity","Female",2
+2022,60,"Accident","Female",27
+2018,61,"Cancer","Male",5
+2018,35,"Pneumonia","Male",12
+2022,48,"Cardiovascular Disease","Female",1
+2021,46,"Suicide","Female",2
+2021,57,"Drug Toxicity","Female",1
+2017,40,"Suicide","Male",1
+2019,43,"Drug Toxicity","Female",4
+2017,62,"Accident","Female",1
+2019,59,"Cancer","Female",25
+2018,52,"Other","Male",1
+2020,55,"Accident","Male",1
+2021,53,"Cardiovascular Disease","Male",1
+2019,53,"Pneumonia","Male",22
+2021,45,"Pneumonia","Male",13
+2022,57,"Other","Female",4
+2019,37,"Pneumonia","Male",1
+2022,44,"Cardiovascular Disease","Male",1
+2019,62,"Other","Male",3
+2019,34,"Cancer","Female",1
+2019,49,"Accident","Male",1
+2018,44,"COVID-19","Male",3
+2017,35,"Homicide","Male",1
+2022,65,"Other","Male",1
+2022,52,"Cancer","Male",26
+2017,51,"Suicide","Female",1
+2018,55,"Pneumonia","Female",21
+2020,65,"Cancer","Female",1
+2021,62,"Suicide","Male",1
+2018,66,"COVID-19","Male",2
+2022,28,"COVID-19","Female",50
+2022,30,"Other","Male",31
+2018,49,"Drug Toxicity","Female",16
+2018,54,"COVID-19","Female",7
+2017,51,"Homicide","Female",1
+2018,40,"Cancer","Male",1
+2019,40,"Accident","Male",7
+2021,60,"Cardiovascular Disease","Female",2
+2019,63,"Pneumonia","Female",33
+2018,43,"Suicide","Female",1
+2021,47,"Homicide","Female",1
+2019,68,"Cancer","Male",1
+2022,56,"Accident","Female",1
+2021,40,"Drug Toxicity","Female",1
+2022,47,"Pneumonia","Male",1
+2022,54,"Cardiovascular Disease","Female",1
+2021,39,"Other","Male",1
+2022,58,"Other","Male",10
+2019,46,"Drug Toxicity","Female",1
+2022,50,"Cancer","Female",29
+2018,56,"Accident","Female",27
+2022,35,"Cancer","Male",1
+2020,64,"Suicide","Female",4
+2020,64,"Drug Toxicity","Female",1
+2017,44,"Drug Toxicity","Female",1
+2022,31,"Drug Toxicity","Male",1
+2022,44,"Pneumonia","Male",1
+2021,37,"Other","Female",1
+2017,50,"Cancer","Male",1
+2022,54,"Other","Male",3
+2019,63,"Cardiovascular Disease","Female",24
+2018,66,"Other","Female",1
+2017,31,"Drug Toxicity","Male",1
+2017,57,"Homicide","Male",24
+2019,67,"Drug Toxicity","Female",1
+2018,54,"Other","Female",1
+2018,54,"Drug Toxicity","Male",1
+2020,54,"Other","Female",1
+2022,39,"Cardiovascular Disease","Male",1
+2022,41,"Drug Toxicity","Male",1
+2017,59,"Cardiovascular Disease","Male",1
+2017,40,"Accident","Female",1
+2021,59,"Accident","Female",3
+2022,43,"Accident","Male",1
+2020,45,"Accident","Male",1
+2017,45,"Cancer","Female",1
+2021,46,"Drug Toxicity","Male",1
+2018,39,"Cardiovascular Disease","Female",1
+2020,45,"Suicide","Female",1
+2021,38,"Drug Toxicity","Male",6
+2022,51,"COVID-19","Male",1
+2019,60,"COVID-19","Male",1
+2020,44,"Suicide","Male",1
+2021,69,"Cancer","Female",1
+2022,50,"Cancer","Male",10
+2022,50,"Suicide","Male",1
+2017,67,"Cardiovascular Disease","Male",1
+2019,53,"Drug Toxicity","Male",1
+2019,63,"COVID-19","Male",40
+2019,61,"Other","Female",1
+2017,51,"Pneumonia","Female",1
+2018,56,"Pneumonia","Female",1
+2020,42,"Homicide","Female",1
+2022,37,"Drug Toxicity","Male",1
+2020,47,"Pneumonia","Male",49
+2019,59,"Drug Toxicity","Female",40
+2018,44,"Cancer","Female",1
+2022,55,"Pneumonia","Female",5
+2022,56,"Cardiovascular Disease","Female",1
+2018,48,"Drug Toxicity","Female",1
+2022,49,"Drug Toxicity","Female",4
+2018,50,"Suicide","Male",5
+2020,70,"Suicide","Female",1
+2017,65,"COVID-19","Female",1
+2018,51,"Homicide","Male",1
+2017,53,"COVID-19","Female",1
+2022,53,"Cardiovascular Disease","Female",1
+2018,36,"Pneumonia","Male",1
+2019,44,"Accident","Female",20
+2018,57,"Cancer","Male",1
+2022,47,"Other","Female",1
+2022,52,"Homicide","Female",1
+2022,43,"Drug Toxicity","Female",1
+2018,49,"COVID-19","Female",1
+2018,55,"Drug Toxicity","Female",3
+2020,45,"Homicide","Male",1
+2019,47,"Drug Toxicity","Male",1
+2022,44,"Pneumonia","Male",1
+2020,64,"Suicide","Female",1
+2019,54,"Pneumonia","Female",1
+2019,40,"Cancer","Female",1
+2017,42,"Other","Male",17
+2021,52,"Drug Toxicity","Male",1
+2022,56,"COVID-19","Female",1
+2019,39,"Suicide","Male",1
+2019,43,"Suicide","Male",1
+2022,47,"Cardiovascular Disease","Female",1
+2017,40,"Pneumonia","Female",1
+2020,33,"Cancer","Female",1
+2020,40,"Cancer","Female",49
+2021,70,"COVID-19","Male",3
+2020,44,"Drug Toxicity","Female",1
+2019,70,"Drug Toxicity","Male",5
+2022,32,"Cancer","Male",20
+2019,37,"COVID-19","Male",8
+2017,51,"Suicide","Male",1
+2018,48,"Drug Toxicity","Male",9
+2021,64,"Suicide","Female",1
+2022,53,"COVID-19","Female",1
+2017,52,"Drug Toxicity","Male",1
+2021,53,"Homicide","Female",1
+2020,46,"Pneumonia","Female",1
+2020,55,"Drug Toxicity","Female",3
+2017,69,"Cancer","Male",3
+2020,41,"Accident","Female",1
+2018,42,"Suicide","Female",1
+2017,48,"Pneumonia","Female",8
+2020,55,"Pneumonia","Male",1
+2019,40,"Drug Toxicity","Male",4
+2019,39,"Accident","Female",1
+2017,39,"Drug Toxicity","Male",1
+2021,53,"Suicide","Male",4
+2017,37,"COVID-19","Female",1
+2022,69,"Other","Male",1
+2018,54,"Drug Toxicity","Male",1
+2022,61,"Homicide","Male",1
+2020,62,"Drug Toxicity","Male",3
+2019,50,"Cancer","Female",1
+2019,53,"Other","Female",1
+2017,48,"Homicide","Female",1
+2017,37,"Suicide","Male",38
+2017,48,"Cardiovascular Disease","Male",5
+2019,55,"Drug Toxicity","Female",1
+2021,57,"Cancer","Male",2
+2018,46,"COVID-19","Female",1
+2021,53,"Pneumonia","Female",1
+2022,25,"Cardiovascular Disease","Female",1
+2019,58,"Drug Toxicity","Male",1
+2019,43,"Cardiovascular Disease","Female",6
+2022,47,"Cancer","Male",1
+2017,61,"Drug Toxicity","Female",1
+2017,55,"Drug Toxicity","Male",1
+2021,37,"Drug Toxicity","Male",1
+2019,56,"Cancer","Female",1
+2018,40,"Suicide","Male",1
+2021,60,"Cancer","Female",1
+2021,49,"COVID-19","Male",1
+2018,42,"Cancer","Female",1
+2020,32,"Homicide","Male",32
+2020,36,"Homicide","Female",7
+2021,69,"Pneumonia","Female",1
+2020,53,"Homicide","Female",30
+2019,49,"Other","Female",1
+2021,70,"COVID-19","Female",1
+2020,55,"Suicide","Male",1
+2021,58,"Cardiovascular Disease","Female",1
+2022,53,"Suicide","Male",12
+2017,33,"Homicide","Female",7
+2021,41,"Cardiovascular Disease","Male",27
+2021,44,"Suicide","Female",1
+2022,37,"COVID-19","Male",1
+2017,58,"Drug Toxicity","Female",1
+2019,51,"Other","Male",1
+2018,50,"Accident","Male",1
+2018,55,"Drug Toxicity","Male",1
+2017,55,"Other","Male",1
+2021,38,"Cancer","Male",46
+2020,53,"Cancer","Male",1
+2019,45,"Suicide","Male",1
+2022,53,"COVID-19","Female",1
+2020,48,"Cancer","Male",1
+2021,59,"Pneumonia","Male",1
+2018,63,"COVID-19","Male",1
+2018,35,"Cancer","Female",1
+2022,35,"Accident","Male",1
+2019,74,"Cancer","Female",1
+2017,55,"Drug Toxicity","Male",1
+2018,41,"Suicide","Female",1
+2017,44,"Homicide","Male",36
+2020,58,"Cancer","Female",1
+2017,54,"Pneumonia","Male",11
+2017,33,"Accident","Female",1
+2022,34,"Cardiovascular Disease","Female",1
+2018,42,"Accident","Male",1
+2020,56,"Accident","Female",1
+2019,77,"Cardiovascular Disease","Male",1
+2020,48,"COVID-19","Male",1
+2017,58,"Drug Toxicity","Female",1
+2020,52,"Pneumonia","Male",20
+2019,44,"Drug Toxicity","Male",4
+2017,70,"Accident","Male",1
+2017,41,"Other","Female",4
+2022,45,"Pneumonia","Female",1
+2018,44,"Suicide","Male",1
+2019,43,"COVID-19","Female",1
+2017,40,"Accident","Male",4
+2019,33,"Cancer","Female",1
+2022,57,"Cardiovascular Disease","Female",1
+2018,50,"Drug Toxicity","Female",1
+2017,36,"Drug Toxicity","Female",1
+2022,68,"Pneumonia","Male",1
+2017,37,"Homicide","Female",8
+2021,33,"Accident","Male",5
+2018,47,"Cardiovascular Disease","Male",41
+2021,49,"Suicide","Female",18
+2020,51,"Drug Toxicity","Male",2
+2020,62,"Cardiovascular Disease","Male",1
+2020,53,"Pneumonia","Female",8
+2022,55,"COVID-19","Female",1
+2019,76,"Cardiovascular Disease","Male",1
+2021,57,"COVID-19","Female",1
+2019,40,"Drug Toxicity","Male",24
+2021,59,"Pneumonia","Male",25
+2020,47,"Suicide","Female",1
+2017,53,"Accident","Female",41
+2017,37,"Cancer","Male",3
+2019,25,"Accident","Male",1
+2018,37,"Cardiovascular Disease","Male",1
+2021,63,"Pneumonia","Male",1
+2018,58,"Drug Toxicity","Female",3
+2019,60,"Homicide","Female",1
+2021,43,"Other","Female",1
+2022,60,"Drug Toxicity","Male",1
+2020,56,"Pneumonia","Male",5
+2020,36,"Other","Male",20
+2020,51,"Drug Toxicity","Male",1
+2021,64,"Cancer","Male",39
+2022,54,"Pneumonia","Male",1
+2017,45,"Other","Female",1
+2021,55,"COVID-19","Male",1
+2022,40,"Drug Toxicity","Female",8
+2022,46,"COVID-19","Female",10
+2019,52,"Homicide","Male",3
+2019,46,"Cancer","Female",28
+2021,55,"Drug Toxicity","Male",1
+2017,47,"Cancer","Female",1
+2020,56,"Cancer","Male",17
+2021,38,"Accident","Male",11
+2022,60,"Homicide","Female",1
+2018,36,"Cancer","Female",5
+2021,52,"Accident","Male",1
+2021,44,"Suicide","Male",1
+2020,38,"Pneumonia","Male",1
+2020,55,"COVID-19","Female",5
+2020,57,"COVID-19","Male",5
+2017,54,"Cancer","Male",1
+2022,35,"Suicide","Male",7
+2019,50,"Drug Toxicity","Male",1
+2021,67,"Suicide","Male",50
+2022,50,"Cancer","Female",12
+2017,55,"Pneumonia","Male",1
+2019,52,"Accident","Male",20
+2022,48,"COVID-19","Female",1
+2018,54,"COVID-19","Male",43
+2019,37,"Cancer","Male",1
+2019,50,"Cancer","Female",2
+2021,50,"COVID-19","Female",2
+2020,62,"Drug Toxicity","Male",16
+2017,62,"Other","Male",1
+2018,44,"Drug Toxicity","Male",20
+2018,64,"Pneumonia","Female",1
+2022,57,"COVID-19","Female",19
+2018,53,"Pneumonia","Male",1
+2019,55,"Other","Male",1
+2019,53,"Other","Female",29
+2017,42,"Drug Toxicity","Male",1
+2020,28,"Other","Male",20
+2021,74,"Drug Toxicity","Male",1
+2019,54,"Cancer","Male",1
+2021,49,"Homicide","Female",2
+2021,73,"Other","Male",1
+2017,44,"Drug Toxicity","Male",28
+2020,54,"Homicide","Male",1
+2020,56,"Accident","Male",1
+2019,39,"Suicide","Female",11
+2017,54,"Other","Male",1
+2021,56,"Homicide","Female",1
+2018,50,"Other","Male",1
+2017,46,"Cardiovascular Disease","Male",1
+2019,49,"Pneumonia","Female",1
+2019,62,"Homicide","Female",1
+2019,43,"Drug Toxicity","Female",1
+2021,37,"Other","Female",9
+2020,41,"COVID-19","Male",1
+2017,43,"Cardiovascular Disease","Male",44
+2020,32,"Pneumonia","Male",6
+2022,61,"Cancer","Female",1
+2021,45,"Other","Female",31
+2017,58,"Other","Female",1
+2021,62,"Accident","Female",1
+2019,57,"Cardiovascular Disease","Female",1
+2020,37,"Other","Female",1
+2017,56,"Cancer","Female",1
+2019,50,"Drug Toxicity","Female",1
+2017,58,"Pneumonia","Female",7
+2018,69,"Other","Male",1
+2017,49,"Drug Toxicity","Female",1
+2022,59,"Pneumonia","Male",3
+2019,48,"Other","Female",17
+2019,54,"Other","Male",1
+2020,63,"Drug Toxicity","Female",10
+2019,57,"Pneumonia","Male",8
+2021,45,"COVID-19","Male",1
+2022,64,"Drug Toxicity","Male",17
+2018,43,"Drug Toxicity","Male",1
+2017,46,"Drug Toxicity","Female",36
+2019,45,"Pneumonia","Male",49
+2020,44,"Suicide","Male",1
+2018,61,"Other","Female",28
+2022,42,"Other","Female",1
+2021,63,"Drug Toxicity","Male",1
+2017,45,"Cardiovascular Disease","Male",1
+2018,41,"Cardiovascular Disease","Male",1
+2022,38,"Suicide","Male",1
+2017,43,"Drug Toxicity","Female",1
+2018,48,"COVID-19","Female",42
+2022,48,"Other","Male",1
+2017,40,"COVID-19","Male",1
+2021,47,"Drug Toxicity","Male",34
+2018,40,"Homicide","Male",1
+2021,39,"COVID-19","Female",1
+2022,30,"Suicide","Female",10
+2021,43,"Drug Toxicity","Male",1
+2020,63,"Cancer","Female",1
+2017,47,"Pneumonia","Male",1
+2021,36,"Pneumonia","Male",1
+2020,50,"Drug Toxicity","Male",43
+2021,59,"Pneumonia","Female",22
+2021,48,"Cancer","Male",1
+2019,48,"Drug Toxicity","Female",2
+2022,48,"Homicide","Male",1
+2019,41,"Homicide","Female",26
+2022,36,"Pneumonia","Male",3
+2021,65,"Other","Female",1
+2020,49,"Other","Female",1
+2020,50,"Suicide","Female",1
+2021,53,"COVID-19","Male",5
+2017,51,"Cardiovascular Disease","Female",1
+2019,63,"Cancer","Female",1
+2017,55,"COVID-19","Female",1
+2017,36,"Pneumonia","Male",1
+2019,43,"COVID-19","Female",1
+2022,54,"Homicide","Male",1
+2018,49,"Homicide","Male",27
+2020,48,"COVID-19","Female",7
+2020,37,"Drug Toxicity","Female",7
+2017,42,"Cancer","Female",1
+2022,41,"Drug Toxicity","Female",1
+2020,42,"Drug Toxicity","Male",4
+2021,66,"Homicide","Female",1
+2018,67,"Homicide","Female",1
+2022,51,"Pneumonia","Male",1
+2020,39,"Cancer","Female",1
+2020,63,"Other","Male",1
+2020,41,"Other","Female",1
+2022,47,"Accident","Female",1
+2018,54,"Suicide","Male",1
+2021,67,"Other","Male",1
+2022,44,"COVID-19","Female",1
+2022,65,"Drug Toxicity","Male",1
+2022,52,"Homicide","Male",1
+2018,39,"Cardiovascular Disease","Male",40
+2020,47,"Drug Toxicity","Male",30
+2020,48,"Homicide","Female",1
+2018,38,"Suicide","Female",10
+2017,65,"Drug Toxicity","Male",6
+2021,61,"Homicide","Female",1
+2019,62,"Drug Toxicity","Male",1
+2019,52,"Cardiovascular Disease","Male",1
+2018,35,"Drug Toxicity","Male",1
+2022,50,"Accident","Female",1
+2018,55,"Drug Toxicity","Female",1
+2022,48,"Drug Toxicity","Male",1
+2021,57,"Cardiovascular Disease","Female",1
+2018,61,"Cardiovascular Disease","Male",1
+2021,60,"Homicide","Female",1
+2021,40,"Drug Toxicity","Female",1
+2021,61,"Pneumonia","Female",5
+2022,57,"Cardiovascular Disease","Male",1
+2022,51,"Cardiovascular Disease","Female",7
+2022,60,"Accident","Male",1
+2022,48,"Other","Female",1
+2019,36,"Pneumonia","Female",8
+2017,51,"Other","Female",1
+2020,57,"Drug Toxicity","Male",1
+2018,42,"Cardiovascular Disease","Male",2
+2020,43,"Other","Female",1
+2019,37,"Cardiovascular Disease","Male",3
+2021,50,"Cardiovascular Disease","Male",1
+2017,53,"Homicide","Male",1
+2017,39,"Cardiovascular Disease","Male",1
+2019,35,"COVID-19","Male",7
+2021,54,"Accident","Male",1
+2022,40,"Pneumonia","Female",1
+2017,65,"COVID-19","Female",1
+2020,70,"Drug Toxicity","Female",1
+2019,47,"Pneumonia","Male",1
+2020,48,"Drug Toxicity","Female",1
+2020,39,"Homicide","Male",9
+2017,68,"Other","Male",1
+2021,66,"Homicide","Female",16
+2022,56,"Cardiovascular Disease","Male",1
+2018,30,"Drug Toxicity","Male",35
+2020,38,"Cancer","Female",49
+2022,53,"Cardiovascular Disease","Male",38
+2020,43,"Other","Female",1
+2020,65,"Suicide","Male",1
+2020,69,"Drug Toxicity","Male",1
