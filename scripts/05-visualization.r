@@ -7,6 +7,16 @@ output_path <- "outputs/figures"
 
 cleaned_data <- read.csv(cleaned_data_path)
 
+
+age_gender_plot <- ggplot(cleaned_data, aes(x = age_group, y = count, fill = gender)) +
+  geom_bar(stat = "identity", position = position_dodge(), width = 0.5, alpha = 0.7) + 
+  scale_fill_manual(values = c("#440154FF", "#FDE725FF")) + 
+  theme_minimal() +
+  labs(title = "Figure 3: Deaths by Age Group and Gender", x = "Age Group", y = "Death Count") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+ggsave(file.path(output_path, "age_gender_death.png"), plot = age_gender_plot, width = 8, height = 6, dpi = 300)
+
 # Figure 1: Distribution of Deaths by Cause
 
 data_by_cause <- cleaned_data %>%
