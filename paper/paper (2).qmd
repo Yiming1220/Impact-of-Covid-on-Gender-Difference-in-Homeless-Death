@@ -1,5 +1,5 @@
 ---
-title: "Exacerbated by the Pandemic: Analyzing the Impact of COVID-19 on Mortality Among Toronto's Homeless with a Lens on Gender Disparities"
+title: "Exacerbated by the Pandemic: Analyzing the Impact of COVID-19 on Mortality Among Toronto's Homeless by Gender Disparities"
 author: "Dingning Li, Yiming Tang, Yingqi Pang"
 abstract: "This study examines the impact of COVID-19 on homeless mortality in Toronto from January 2017 to June 2023, with a focus on gender disparities. Utilizing a Difference in Differences approach and data from Toronto Public Health, the research analyzed death counts before and after COVID-19, applying regression models with and without gender controls. Results indicate a general increase in deaths post-COVID, with a more pronounced rise in male mortality. The study underscores the pandemic's exacerbation of existing vulnerabilities in homeless populations, particularly among males, and highlights the need for targeted public health strategies."
 date: March 16, 2024
