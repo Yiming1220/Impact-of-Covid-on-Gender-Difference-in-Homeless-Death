@@ -147,3 +147,6 @@ Future research directions stemming from our study topic should aim to deeper un
 # Conclusion
 In conclusion, this study has quantitatively examined the impact of the COVID-19 pandemic on mortality among Toronto's homeless population, with a focus on gender disparities. The analysis, which applied a Difference in Differences approach, suggests an overall increase in deaths post-pandemic, with males experiencing a notably higher mortality rate. Although the increase in death counts after COVID-19 was not statistically significant when accounting for confounders such as cause of death and age, the gender gap in mortality persisted. These results highlight the importance of targeted public health interventions and policies to address the needs of homeless populations during health crises. These results reinforce the call for comprehensive public health strategies and targeted support systems to mitigate the pandemic's impact on the homeless population.
 
+\newpage
+
+# Reference
