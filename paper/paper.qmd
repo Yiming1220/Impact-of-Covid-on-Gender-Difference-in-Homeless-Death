@@ -8,7 +8,7 @@ format: pdf
 bibliography: references.bib
 toc: true
 toc-depth: 3
-thanks: "Code and data are available at . Reproduction record available at "
+thanks: "Code and data are available at https://github.com/Yiming1220/Impact-of-Covid-on-Gender-Difference-in-Homeless-Death.git. "
 ---
 # Introduction
 
