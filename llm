@@ -1,1 +1,32 @@
+# For the result and discussion part, ChatGPT as a helper to give some hints:
+we want to analysis female vs. male, gender influence on the death before covid and after covid. What graph do u think is appropriate for analysis?
+ChatGPT
+The dataset contains information on homeless deaths categorized by the year of death, cause of death, age group, gender, and count of deaths. To analyze the influence of gender on deaths before and after COVID-19, we can consider several types of graphs:
+
+Line Graphs: These can show the trend of deaths over the years for each gender. You can plot separate lines for males and females to compare the trends over time, highlighting any significant changes before and after the emergence of COVID-19 (which we can mark as starting from 2020).
+
+Bar Charts: You could use stacked or grouped bar charts to compare the number of deaths by gender for each year, with a clear distinction for the years before and after COVID-19. This will provide a visual comparison of the impact of COVID-19 on homeless deaths by gender.
+
+Pie Charts: While not as effective for time series data, pie charts could be used to show the proportion of deaths by gender for specific years or periods (e.g., before and after COVID-19).
+
+Box Plots: These could be used to show the distribution of deaths for each gender across different years, highlighting any outliers or significant changes in the distribution before and after COVID-19.
+
+Heatmaps: If you're interested in a more detailed analysis that includes age groups, a heatmap could visualize the number of deaths by age group and gender across different years, with color intensity indicating the number of deaths.
+
+Considering the nature of your analysis, line graphs or bar charts would likely be the most appropriate and straightforward for highlighting the differences in trends between genders before and after COVID-19. Would you like to proceed with one of these graph types, or do you have another preference? ​​
+
+why there is no box, only lines on the graph?
+ChatGPT
+If your box plot only shows lines instead of boxes, it could indicate that there is not enough variation in the data for some of the categories to create a box. A box plot visualizes the median, quartiles, and potential outliers within the data. If all the values in a category are the same, or if there is only one value, you would only see a line at that value level instead of a box.
+
+Here are a few things to check:
+
+Data Distribution: Make sure there is enough variance in the data for each group (Gender and Covid_Period combination). If every individual in a group has the same value for Total_Deaths, the box plot will not show a box.
+
+Aggregation: The way the data is aggregated might result in single values for certain groups. Ensure that the grouping is done correctly and that it reflects the intended analysis.
+
+Plotting Code: Ensure the plotting code is written correctly and that it's not inadvertently modifying the data to produce a single line.
+
+Without seeing the exact output of your R script, these are the general checks you should perform. If the issue persists, you may need to provide more detail or the actual output data used for the plotting to diagnose the problem further.
+
 
