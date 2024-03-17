@@ -1,3 +1,4 @@
+## Exacerbated by the Pandemic: Analyzing the Impact of COVID-19 on Mortality Among Toronto’s Homeless by Gender Disparities
 # Overview
 This repository is collaboratively created by Yingqi Pang, Yiming Tang, and Dingning Li. It serves as a comprehensive archive for our research project, which focuses on the comparative analysis of homeless death counts in Toronto before and after the outbreak of the COVID-19 pandemic. 
 
