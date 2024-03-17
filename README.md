@@ -8,7 +8,7 @@ The repo is structured as the following:
 * `scripts`: contains the R scripts used to simulate, download, clean, test the data and conduct replicate analysis. 
 * `Outputs`: contains contains the tables and figure used in the paper 
 * `Paper`: contains markdown and pdf output of the paper. 
-* `Other/LLM`: contains the detailed llm usage documentation links.
+* `other/LLM`: contains the detailed llm usage documentation links.
 
 ## Statement of LLM usage
 Part of the code and analysis were completed with the help of ChatGPT. ChatGPT also provided some hints and explanations of our research as references. The entire chat history is available in: https://github.com/Yiming1220/sta302_proj_3/blob/master/llm
