@@ -4,10 +4,10 @@ This repository is collaboratively created by Yingqi Pang, Yiming Tang, and Ding
 
 ## File Structure
 The repo is structured as the following:
-* `Inputs`: contains the raw and cleaned data used in the study 
+* `inputs`: contains the raw and cleaned data used in the study 
 * `scripts`: contains the R scripts used to simulate, download, clean, test the data and conduct replicate analysis. 
-* `Outputs`: contains contains the tables and figure used in the paper 
-* `Paper`: contains markdown and pdf output of the paper. 
+* `outputs`: contains contains the tables and figure used in the paper 
+* `paper`: contains markdown and pdf output of the paper. 
 * `other/LLM`: contains the detailed llm usage documentation links.
 
 ## Statement of LLM usage
